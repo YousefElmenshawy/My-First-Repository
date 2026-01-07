@@ -5,7 +5,7 @@
 
 # Throwback — My First Repository 
 
-<img src="banner.svg" alt="add.cpp banner" style="max-width:100%;height:auto" />>
+<img src="banner.svg" alt="add.cpp banner" style="max-width:100%;height:auto" />
 
 
 
